@@ -1,0 +1,13 @@
+# Data Files
+data/
+
+# Environment Variables
+.env
+
+# Virtual Environment
+fellow/ 
+
+# Compiled Python files
+__pycache__/
+
+.env.example
