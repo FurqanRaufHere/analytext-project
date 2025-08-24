@@ -1,0 +1,11 @@
+streamlit
+transformers
+tokenizers
+pandas
+textstat
+langdetect
+nltk
+requests
+transformers
+
+python-dotenv
